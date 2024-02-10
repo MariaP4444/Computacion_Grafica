@@ -1,0 +1,5 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  cubo.cpp
+C:\Users\maria\OneDrive\Escritorio\Universidad\Semestre5\ComputacionGrafica\GLSL_Lighting_Reto1\GLSL_Lighting\cubo.cpp(6,13): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\maria\OneDrive\Escritorio\Universidad\Semestre5\ComputacionGrafica\GLSL_Lighting_Reto1\GLSL_Lighting\cubo.cpp(15,13): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+  TemplateProject.vcxproj -> C:\Users\maria\OneDrive\Escritorio\Universidad\Semestre5\ComputacionGrafica\GLSL_Lighting_Reto1\GLSL_Lighting\Debug\TemplateProject.exe
